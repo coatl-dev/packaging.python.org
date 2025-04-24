@@ -10,9 +10,6 @@ This document specifies a :file:`direct_url.json` file in the
 Direct URL Origin of the distribution. The layout of this file was originally
 specified in :pep:`610` and is formally documented here.
 
-.. contents:: Contents
-   :local:
-
 Specification
 =============
 

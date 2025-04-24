@@ -17,11 +17,6 @@ the term "distribution" is often not preferred, because it can easily be
 confused with a Linux distribution, or another larger software distribution
 like Python itself.
 
-
-.. contents:: Contents
-   :local:
-
-
 .. _installing_requirements:
 
 Requirements for Installing Packages
