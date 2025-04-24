@@ -202,7 +202,7 @@ Python Packaging User Guide
 ===========================
 
 :doc:`Docs <packaging.python.org:index>` |
-`Issues <https://github.com/pypa/packaging.python.org/issues>`__ |
+`Issues <https://github.com/coatl-dev/packaging.python.org/issues>`__ |
 `GitHub <https://github.com/pypa/packaging.python.org>`__
 
 This guide!

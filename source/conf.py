@@ -64,8 +64,8 @@ html_title = "Python Packaging User Guide"
 html_theme = "furo"
 
 html_theme_options = {
-    "source_edit_link": "https://github.com/pypa/packaging.python.org/edit/main/source/{filename}",
-    "source_view_link": "https://github.com/pypa/packaging.python.org/blob/main/source/{filename}?plain=true",
+    "source_edit_link": "https://github.com/coatl-dev/packaging.python.org/edit/main/source/{filename}",
+    "source_view_link": "https://github.com/coatl-dev/packaging.python.org/blob/main/source/{filename}?plain=true",
 }
 
 html_favicon = "assets/py.png"
@@ -138,10 +138,10 @@ linkcheck_ignore = [
     "https://pypi.org/manage/*",
     "https://test.pypi.org/manage/*",
     # Temporarily ignored. Ref:
-    # https://github.com/pypa/packaging.python.org/pull/1308#issuecomment-1775347690
+    # https://github.com/coatl-dev/packaging.python.org/pull/1308#issuecomment-1775347690
     "https://www.breezy-vcs.org/*",
     # Ignore while StackOverflow is blocking GitHub CI. Ref:
-    # https://github.com/pypa/packaging.python.org/pull/1474
+    # https://github.com/coatl-dev/packaging.python.org/pull/1474
     "https://stackoverflow.com/*",
     "https://pyscaffold.org/*",
     "https://anaconda.org",
@@ -152,7 +152,7 @@ linkcheck_anchors_ignore_for_url = [
     # GitHub synthesises anchors in JavaScript, so Sphinx can't find them in the HTML
     r"https://github\.com/",
     # While PyPI has its botscraping defenses active, Sphinx can't resolve the anchors
-    # https://github.com/pypa/packaging.python.org/issues/1744
+    # https://github.com/coatl-dev/packaging.python.org/issues/1744
     r"https://pypi\.org/",
 ]
 

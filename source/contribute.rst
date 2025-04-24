@@ -18,9 +18,9 @@ Most of the work on the |PyPUG| takes place on the
 `open issues`__ and `pull requests`__. If you're planning to write or edit
 the guide, please read the :ref:`style guide <contributing_style_guide>`.
 
-.. __: https://github.com/pypa/packaging.python.org/
-.. __: https://github.com/pypa/packaging.python.org/issues
-.. __: https://github.com/pypa/packaging.python.org/pulls
+.. __: https://github.com/coatl-dev/packaging.python.org/
+.. __: https://github.com/coatl-dev/packaging.python.org/issues
+.. __: https://github.com/coatl-dev/packaging.python.org/pulls
 
 By contributing to the |PyPUG|, you're expected to follow the PSF's
 `Code of Conduct`__.
@@ -83,7 +83,7 @@ please open an issue on `Github`_.
 
 .. _Weblate: https://weblate.org/
 .. _packaging.python.org: https://hosted.weblate.org/projects/pypa/packaging-python-org/
-.. _Github: https://github.com/pypa/packaging.python.org/issues
+.. _Github: https://github.com/coatl-dev/packaging.python.org/issues
 .. _reStructuredText syntax: https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html
 
 Adding a language
